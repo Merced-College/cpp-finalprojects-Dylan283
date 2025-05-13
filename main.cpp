@@ -152,7 +152,7 @@ int main() {
 }
 
 /*
- * Code written by [Your Name], May 2025.
+ * Code written by Dylan Hamilton, May 2025.
  * Cited lines: All logic in TaskManager.cpp, sorting algorithm, priority queue, and weekly schedule generator.
  * These algorithms were designed manually and follow class standards.
  */
