@@ -10,10 +10,9 @@
 
                 "-fdiagnostics-color=always",
                 "-g",
-                "/workspaces/cpp_virtualPet/main.cpp",
-                "/workspaces/cpp_virtualPet/Pet.cpp",
+                "/workspaces/cpp-finalprojects-Dylan283/main.cpp",
                 "-o",
-                "/workspaces/cpp_virtualPet/main"
+                "/workspaces/cpp-finalprojects-Dylan283/main.cpp"
             ],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",

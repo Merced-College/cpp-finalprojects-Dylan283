@@ -19,7 +19,7 @@ public:
 #endif
 
 // === File: Task.cpp ===
-#include "Task.h"
+//#include "Task.h"
 
 Task::Task(std::string n, std::string d, int p)
     : name(n), dueDate(d), priority(p), completed(false) {}
@@ -32,7 +32,7 @@ void Task::markComplete() {
 #ifndef TASKMANAGER_H
 #define TASKMANAGER_H
 
-#include "Task.h"
+//#include "Task.h"
 #include <vector>
 #include <map>
 #include <queue>
@@ -53,7 +53,7 @@ public:
 #endif
 
 // === File: TaskManager.cpp ===
-#include "TaskManager.h"
+//#include "TaskManager.h"
 #include <iostream>
 #include <algorithm>
 
@@ -101,7 +101,7 @@ void TaskManager::markTaskComplete(const std::string& name) {
 }
 
 // === File: main.cpp ===
-#include "TaskManager.h"
+//#include "TaskManager.h"
 #include <iostream>
 
 void showMenu() {

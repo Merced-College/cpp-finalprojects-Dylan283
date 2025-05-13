@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspaces/cpp-finalprojects-Dylan283",
-      "program": "/workspaces/cpp-finalprojects-Dylan283/build/Debug/outDebug",
+      "cwd": "/workspaces/cpp-finalprojects-Dylan283/main.cpp",
+      "program": "/workspaces/cpp-finalprojects-Dylan283/main.cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
